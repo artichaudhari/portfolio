@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Login and Registration App using Django 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Collaboration to create a simple Login and Registration system using the Django framework.",
+    url: "https://github.com/artichaudhari/Login_and_Registration_Django",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Amazon landing pge using HTML and CSS",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Simple amazon Landing page using HTMl and CSS.",
+    url: "https://github.com/artichaudhari/Amazon_Landing_Page",
   },
   {
-    title: "My Resume Site",
+    title: "Tech Coder Website",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Simple coding platform for learning new technologies",
+    url: "https://github.com/artichaudhari/TechCoder-Website",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "iEducate-website using HTML, CSS, Bootstrap",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Simple Frontend page showing Education details ",
+    url: "https://github.com/artichaudhari/iEducate-website",
   },
 ];
 
